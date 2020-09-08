@@ -1,0 +1,3 @@
+- background: url('') center center;
+
+- react-date-range - to pick date range - but import those two css files from package

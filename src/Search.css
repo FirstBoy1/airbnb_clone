@@ -1,0 +1,32 @@
+.search {
+  position: absolute;
+  top: 35px;
+  left: 25%;
+  /* width: 100vw; */
+  display: flex;
+  flex-direction: column;
+}
+
+.search > h2 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  background-color: white;
+}
+
+.search > input {
+  padding: 20px;
+  border: none;
+}
+
+.search > button {
+  text-transform: inherit;
+  background-color: #ff7779;
+  color: white;
+}
+
+.search > button:hover {
+  color: #ff7779;
+  background-color: white;
+}
